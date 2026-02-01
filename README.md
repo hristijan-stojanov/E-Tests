@@ -1,18 +1,18 @@
-# E-test-app
-# Веб апликација за креирање на електронски тестови
+# E-test
+# Web-based application for creating online tests
 
 ![етест слика](Images-videos/etest.PNG)
 
 ## Опис
-Креирање на систем кој овозможува на корисниците да креираат профил и да креираат електронски тестови по нивните потреби.
+Building a system that allows users to create accounts and create electronic tests based on their needs.
 
-## Функционалности
-- Имплементација на функционалности за споделување на тестови
-- Разработка на систем за оценување, каде што ако тестот се реши со 50% точност, системот автоматски генерира сертификат за корисникот.
-- Интеграција на GemBox.Document за генерирање на сертификатите според податоците од профилот на корисникот.
-- Имплементација на функционалност за експорт на резултатите од решавањето на тестовите во ексел табела.
+## Features
+- Implementation of test sharing functionality
+- Development of a grading system where, if a test is completed with at least 50% accuracy, the system automatically generates a certificate for the user.
+- Integration of GemBox.Document for generating certificates based on user profile data.
+- Implementation of a feature for exporting test results to an Excel spreadsheet.
 
-## Видео презентација
+## Video presentation
 
 [video](https://github.com/hristijan-stojanov/E-test-app/assets/82612180/b92a3d9f-12c3-41f1-8c59-4aa1fa853a6c)
 
